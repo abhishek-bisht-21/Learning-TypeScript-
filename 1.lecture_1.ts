@@ -9,3 +9,14 @@ x = 23;
 // Pascal Notation. We put the datatype After the variable name.
 let y:string; // Typescript Notation for defining the datatype of a variable.
 
+// kotlin,swift and dart support Pascal syntax.
+
+let boo:boolean;
+let str:string;
+let num:number;
+
+boo = true;
+// boo = 1; Error 
+str = "asd";
+num = 2134;
+num = 12.34;
